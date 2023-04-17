@@ -23,9 +23,7 @@
   </a>
 </p>
 
-<br><br><br>
-
-
+<br>
 
 ## 📋 To-do
 <br>
@@ -97,7 +95,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/IFlickerz">
         <img src="https://avatars3.githubusercontent.com/u/44907434" width="100px;" alt="Foto IFlickerz no GitHub"/><br>
         <sub>
           <b>Nicolas Mossmann</b>
@@ -109,4 +107,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 <br>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#not-pokemon)<br>
