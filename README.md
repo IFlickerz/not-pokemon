@@ -1,14 +1,16 @@
 <h1 align="center">
-  <img src="images/not_pokemon_banner.png" alt="Not Pokemon Banner">
+  <img src="images/not_pokemon_banner.png" alt="Not Pokemon Banner" style="max-width: 50%;">
   <br><br>
   NOT Pokémon
 </h1>
 
 <br>
+<h4 align="center">Projeto para criação de um jogo inspirado em Pokémon</h4>
+<br>
 
 <p align="center">
-  <a href="https://img.shields.io/github/repo-size/iflickerz/not-pokemon?color=FF0072&label=Tamanho%20do%20Reposit%C3%B3rio&logo=databricks&logoColor=FFFFFF&style=for-the-badge">
-    <img src="https://img.shields.io/github/repo-size/iflickerz/not-pokemon?color=FF0072&label=Tamanho%20do%20Reposit%C3%B3rio&logo=databricks&logoColor=FFFFFF&style=for-the-badge">
+  <a href="https://img.shields.io/github/repo-size/iflickerz/not-pokemon?color=FF0072&label=Tamanho%20do%20Repo&logo=databricks&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/iflickerz/not-pokemon?color=FF0072&label=Tamanho%20do%20Repo&logo=databricks&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://img.shields.io/github/issues/iflickerz/not-pokemon?color=00CEA5&logo=git&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/github/issues/iflickerz/not-pokemon?color=00CEA5&logo=git&logoColor=white&style=for-the-badge">
@@ -21,104 +23,90 @@
   </a>
 </p>
 
+<br><br><br>
+
+
+
+## 📋 To-do
 <br>
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+<br>
 
-## 💻 Pré-requisitos
+### Criação do Mapa com Tiled Map Editor:
+* [ ] Downloads e Setup
+  * [ ] Obter os assets
+  * [ ] Download do Tiled
+  * [ ] Importar para o projeto
+* [ ] Contrução da base para a terra e os mares
+* [ ] Criação das árvores e plantas
+* [ ] Detalhamento do cenário
+* [ ] Colisões e Limites do mapa
+* [ ] Criação das camadas de Foreground
+* [ ] Exportar as camadas para o projeto
+<br><br>
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+### Jogador e Desenvolvimento do Mapa:
+* [ ] Setup do projeto
+* [ ] Importação e Renderização do mapa
+* [ ] Criação do Personagem
+* [ ] Movimentação do jogador
+* [ ] Colisões Player-To-Map-Boundary
+* [ ] Criação de Objetos em Foreground
+* [ ] Animações de movimento do jogador
+<br><br>
 
-## 🚀 Instalando <nome_do_projeto>
+### Batalhas
+* [ ] Ativação da Batalha
+* [ ] Criação do Cenário de batalha
+* [ ] Transição do mapa para o cenário de batalha
+* [ ] Finalização da batalha adicionando os sprites
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+<br><br>
 
-Linux e macOS:
+## ☕ Como jogar NOT Pokémon
+<br>
+
+Para jogar o NOT Pokémon, siga as seguintes etapas:
+
 ```
-<comando_de_instalação>
+Literalmente baixa e roda (ainda vou fazer isso aqui...)
 ```
 
-Windows:
-```
-<comando_de_instalação>
-```
 
-## ☕ Usando <nome_do_projeto>
+<br><br>
 
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+## 📫 Contribuindo para o NOT Pokémon
+<br>
+Se você quiser contribuir com o NOT Pokémon, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+4. Envie para o branch original: `git push origin not-pokemon / <local>`
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+<br><br>
+
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
+<br>
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/44907434" width="100px;" alt="Foto IFlickerz no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
-        <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Nicolas Mossmann</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+<br>
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
